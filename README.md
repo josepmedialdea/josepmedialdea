@@ -1,4 +1,4 @@
-![Cover image](portada-logo-21-9.png)
+[![Cover image](portada-logo-4-1.png)](https://www.medialdea.io)
 ### Hi there 👋
 
 <!--
