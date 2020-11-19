@@ -1,3 +1,4 @@
+![Cover image](portada-logo-21-9.png)
 ### Hi there 👋
 
 <!--
